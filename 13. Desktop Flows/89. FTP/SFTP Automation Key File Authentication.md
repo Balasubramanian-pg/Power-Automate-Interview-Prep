@@ -1,0 +1,8 @@
+# 89. FTP/SFTP Automation: Key File Authentication
+
+## Technical Summary
+
+## Performance Checklist
+- [ ] Server-Side Filtering applied?
+- [ ] Concurrency Control evaluated?
+- [ ] Minimal data width requested?
